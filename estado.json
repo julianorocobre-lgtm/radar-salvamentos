@@ -95,7 +95,21 @@
   "syc-47259": "2026-10-09 15:11:29",
   "syc-47258": "2026-10-09 15:11:29",
   "syc-47257": "2026-10-09 15:11:29",
-  "syc-47256": "2026-10-09 15:11:29"
+  "syc-47256": "2026-10-09 15:11:29",
+  "superbid-5054782": "2026-10-09 16:58:56",
+  "superbid-5053120": "2026-10-09 16:58:56",
+  "superbid-5053121": "2026-10-09 16:58:56",
+  "superbid-5053123": "2026-10-09 16:58:56",
+  "superbid-5054781": "2026-10-09 16:58:56",
+  "superbid-5053122": "2026-10-09 16:58:56",
+  "superbid-5054780": "2026-10-09 16:58:56",
+  "superbid-5054783": "2026-10-09 16:58:56",
+  "superbid-5053124": "2026-10-09 16:58:56",
+  "superbid-5054738": "2026-10-09 16:58:56",
+  "superbid-5053086": "2026-10-09 16:58:56",
+  "superbid-5054739": "2026-10-09 16:58:56",
+  "superbid-5054784": "2026-10-09 16:58:56",
+  "superbid-5054779": "2026-10-09 16:58:56"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -238,12 +252,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47245-motocicletas-honda-wave-en-bogota-aprox:56--und.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47246-motocicletas-honda-wave-en-bogota-aprox:57-und.html": false
  },
- "ultima_revision": "2026-10-09 15:11:29",
+ "ultima_revision": "2026-10-09 16:58:56",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 8,
-  "avisos": 84,
-  "usd": 0.166
+  "corridas": 9,
+  "avisos": 85,
+  "usd": 0.1725
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -442,6 +456,7 @@
    "detectado": "2026-10-07 16:27:14"
   }
  },
- "fb_ultima": "2026-10-09T15:11:01",
- "fb_turno": 3
+ "fb_ultima": "2026-10-09T16:58:01",
+ "fb_turno": 1,
+ "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
