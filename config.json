@@ -1,0 +1,14 @@
+{
+  "precio_min": 0,
+  "precio_max": 10000000,
+  "fb_busquedas": [
+    "carro chocado",
+    "salvamento",
+    "carro para reparar",
+    "camioneta chocada"
+  ],
+  "fb_ciudad": "antioquia",
+  "fb_cada_min": 180,
+  "fb_dias_visibles": 14,
+  "fb_presupuesto_usd_mes": 4.5
+}
