@@ -178,6 +178,20 @@ def precio_fb(valor):
     return n
 
 
+# Marketplace necesita la ciudad como aparece en su dirección web; se aceptan departamentos y tildes
+FB_UBICACION = {"antioquia": "medellin", "medellín": "medellin", "cundinamarca": "bogota", "bogotá": "bogota",
+                "valle": "cali", "valle del cauca": "cali", "atlantico": "barranquilla", "atlántico": "barranquilla",
+                "santander": "bucaramanga", "bolivar": "cartagena", "bolívar": "cartagena",
+                "risaralda": "pereira", "caldas": "manizales", "tolima": "ibague", "ibagué": "ibague",
+                "meta": "villavicencio", "boyaca": "tunja", "boyacá": "tunja", "huila": "neiva",
+                "norte de santander": "cucuta", "cúcuta": "cucuta", "quindio": "armenia", "quindío": "armenia"}
+
+
+def ubicacion_fb(texto):
+    t = (texto or "bogota").strip().lower()
+    return FB_UBICACION.get(t, t.replace(" ", ""))
+
+
 def facebook(cfg, estado):
     tok = os.environ.get("APIFY_TOKEN")
     if not tok or not cfg.get("fb_busquedas"):
@@ -186,6 +200,12 @@ def facebook(cfg, estado):
     ultima = estado.get("fb_ultima")
     cache = estado.setdefault("fb_cache", {})
     debe_correr = not ultima or (ahora - datetime.fromisoformat(ultima)).total_seconds() >= cfg["fb_cada_min"] * 60
+    # si cambiaron las búsquedas, la ciudad o el rango desde el tablero, se busca de una vez
+    firma = json.dumps([cfg.get("fb_busquedas"), cfg.get("fb_ciudad"), cfg.get("precio_max")], ensure_ascii=False)
+    if estado.get("fb_firma") != firma:
+        debe_correr = True
+        estado["fb_turno"] = 0
+    estado["fb_firma"] = firma
     mes = ahora.strftime("%Y-%m")
     gasto = estado.setdefault("fb_gasto", {})
     if gasto.get("mes") != mes:
@@ -201,7 +221,7 @@ def facebook(cfg, estado):
         turno = estado.get("fb_turno", 0) % len(cfg["fb_busquedas"])
         estado["fb_turno"] = turno + 1
         for q in [cfg["fb_busquedas"][turno]]:
-            entrada = {"searchQuery": q, "marketplaceLocation": cfg.get("fb_ciudad") or "bogota",
+            entrada = {"searchQuery": q, "marketplaceLocation": ubicacion_fb(cfg.get("fb_ciudad")),
                        "categories": ["vehicles"], "sortBy": "creation_time_descend", "exact": True,
                        "maxItems": 20, "flattenOutput": True,
                        "maxListingAgeHours": 0 if not ultima else ventana_h}
@@ -232,7 +252,8 @@ def facebook(cfg, estado):
                     "precio": precio_fb(a.get("listingPrice") or a.get("listingPrice.amount")),
                     "cierre": "",
                     "publicado": (a.get("timestamp") or "")[:19].replace("T", " "),
-                    "foto": "",
+                    "foto": ((a.get("primaryListingPhoto") or {}).get("photo_image_url")
+                             or a.get("primaryListingPhoto.photo_image_url") or ""),
                     "url": a.get("itemUrl") or f"https://www.facebook.com/marketplace/item/{a['id']}",
                 }
     # se muestran los avisos de los últimos N días; los más viejos salen del tablero
@@ -250,6 +271,35 @@ def notificar_mac(titulo, texto):
     subprocess.run(["osascript", "-e",
                     f'display notification "{esc(texto)}" with title "{esc(titulo)}" sound name "Glass"'],
                    check=False)
+
+
+def notificar_telegram_lotes(lotes):
+    """Una alarma por lote con su foto (hasta 10); si hay más, el resto va en un mensaje de lista."""
+    tok, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+    if not (tok and chat):
+        return
+    for destino in [c.strip() for c in chat.split(",") if c.strip()]:
+        for l in lotes[:10]:
+            texto = (f"🚗 {l['titulo']}\n💰 ${l['precio']:,}".replace(",", ".")
+                     + f"\n📍 {l['ciudad'] or 'sin ciudad'} · {l['fuente']}"
+                     + (f"\n⏰ Cierre {l['cierre']}" if l.get("cierre") else "")
+                     + f"\n{l['url']}")
+            base = ["curl", "-sS", "--fail", "-m", "30", "--data-urlencode", f"chat_id={destino}"]
+            enviado = False
+            if l.get("foto"):
+                r = subprocess.run(base + ["--data-urlencode", f"photo={l['foto']}", "--data-urlencode",
+                                           f"caption={texto[:1000]}",
+                                           f"https://api.telegram.org/bot{tok}/sendPhoto"], capture_output=True)
+                enviado = r.returncode == 0
+            if not enviado:  # sin foto o Telegram no pudo descargarla
+                subprocess.run(base + ["--data-urlencode", f"text={texto}", "-d", "disable_web_page_preview=true",
+                                       f"https://api.telegram.org/bot{tok}/sendMessage"], capture_output=True)
+        if len(lotes) > 10:
+            resto = "\n".join(f"• {l['titulo']} — ${l['precio']:,} — {l['url']}" for l in lotes[10:25])
+            subprocess.run(["curl", "-sS", "-m", "30", "--data-urlencode", f"chat_id={destino}",
+                            "--data-urlencode", f"text=Y {len(lotes) - 10} lotes nuevos más:\n{resto}",
+                            "-d", "disable_web_page_preview=true",
+                            f"https://api.telegram.org/bot{tok}/sendMessage"], capture_output=True)
 
 
 def notificar_telegram(texto):
@@ -327,8 +377,7 @@ def main():
         resumen = "; ".join(f"{l['titulo'][:40]} ({l['fuente']})" for l in nuevos[:3])
         extra = f" y {len(nuevos) - 3} más" if len(nuevos) > 3 else ""
         notificar_mac(f"🚗 {len(nuevos)} salvamento(s) nuevo(s)", resumen + extra)
-        notificar_telegram(f"🚗 {len(nuevos)} salvamentos nuevos\n\n" + "\n".join(
-            f"• {l['titulo']} — ${l['precio']:,} — cierre {l['cierre'] or 'sin fecha'}\n  {l['url']}" for l in nuevos[:15]))
+        notificar_telegram_lotes(nuevos)
         nuevos = nuevos_todos
 
     salida = {"revision": ahora, "primera_vez": primera_vez, "errores": errores, "config": cfg,
