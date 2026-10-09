@@ -1,0 +1,36 @@
+name: Radar de Salvamentos
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # cada 15 minutos (GitHub puede retrasarlo unos minutos)
+  workflow_dispatch:          # botón "Run workflow" para correrlo a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Revisar fuentes y enviar alarmas
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TZ: America/Bogota
+        run: python3 monitor_salvamentos.py > /dev/null
+
+      - name: Guardar lo visto para la próxima revisión
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add estado.json ultima_corrida.json
+          git diff --cached --quiet || git commit -m "Revisión $(date '+%Y-%m-%d %H:%M')"
+          git pull --rebase --autostash && git push
