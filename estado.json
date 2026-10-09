@@ -72,7 +72,30 @@
   "fb-1821565442348283": "2026-10-07 16:27:14",
   "fb-1099150505795841": "2026-10-07 16:27:14",
   "fb-983332528127195": "2026-10-07 16:27:14",
-  "fb-1070663678911910": "2026-10-07 16:47:14"
+  "fb-1070663678911910": "2026-10-07 16:47:14",
+  "syc-47266": "2026-10-09 15:11:29",
+  "syc-47277": "2026-10-09 15:11:29",
+  "syc-47276": "2026-10-09 15:11:29",
+  "syc-47275": "2026-10-09 15:11:29",
+  "syc-47274": "2026-10-09 15:11:29",
+  "syc-47273": "2026-10-09 15:11:29",
+  "syc-47272": "2026-10-09 15:11:29",
+  "syc-47271": "2026-10-09 15:11:29",
+  "syc-47270": "2026-10-09 15:11:29",
+  "syc-47269": "2026-10-09 15:11:29",
+  "syc-47268": "2026-10-09 15:11:29",
+  "syc-47267": "2026-10-09 15:11:29",
+  "syc-47255": "2026-10-09 15:11:29",
+  "syc-47265": "2026-10-09 15:11:29",
+  "syc-47264": "2026-10-09 15:11:29",
+  "syc-47263": "2026-10-09 15:11:29",
+  "syc-47262": "2026-10-09 15:11:29",
+  "syc-47261": "2026-10-09 15:11:29",
+  "syc-47260": "2026-10-09 15:11:29",
+  "syc-47259": "2026-10-09 15:11:29",
+  "syc-47258": "2026-10-09 15:11:29",
+  "syc-47257": "2026-10-09 15:11:29",
+  "syc-47256": "2026-10-09 15:11:29"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -210,14 +233,17 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47209-chevrolet-onix-nb-lt-turbo-mt-placa-389.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47210-mazda-cx50-grand-touring-25-at-4x4-placa-931.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47211-renault-duster-iconic-13t-cvt-placa-273.html": false,
-  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47212-renault-nueva-duster-intens-13t-4x4-mt-placa-948.html": false
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47212-renault-nueva-duster-intens-13t-4x4-mt-placa-948.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47244-motocicletas-super-soco-cpx-en-bogota-aprox:15--und.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47245-motocicletas-honda-wave-en-bogota-aprox:56--und.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47246-motocicletas-honda-wave-en-bogota-aprox:57-und.html": false
  },
- "ultima_revision": "2026-10-08 12:44:44",
+ "ultima_revision": "2026-10-09 15:11:29",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 7,
-  "avisos": 83,
-  "usd": 0.1595
+  "corridas": 8,
+  "avisos": 84,
+  "usd": 0.166
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -416,6 +442,6 @@
    "detectado": "2026-10-07 16:27:14"
   }
  },
- "fb_ultima": "2026-10-08T12:08:18",
- "fb_turno": 2
+ "fb_ultima": "2026-10-09T15:11:01",
+ "fb_turno": 3
 }
