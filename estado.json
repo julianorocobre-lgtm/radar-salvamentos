@@ -273,12 +273,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47245-motocicletas-honda-wave-en-bogota-aprox:56--und.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47246-motocicletas-honda-wave-en-bogota-aprox:57-und.html": false
  },
- "ultima_revision": "2026-10-09 18:32:51",
+ "ultima_revision": "2026-10-09 21:46:05",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 9,
-  "avisos": 85,
-  "usd": 0.1725
+  "corridas": 10,
+  "avisos": 86,
+  "usd": 0.179
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -460,24 +460,9 @@
    "url": "https://www.facebook.com/marketplace/item/1821565442348283",
    "en_rango": false,
    "detectado": "2026-10-07 16:27:14"
-  },
-  "fb-1099150505795841": {
-   "id": "fb-1099150505795841",
-   "fuente": "Facebook Marketplace",
-   "titulo": "Hiunday I35",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Bogotá, Colombia",
-   "precio": 0,
-   "cierre": "",
-   "publicado": "2026-09-25 20:03:50",
-   "foto": "",
-   "url": "https://www.facebook.com/marketplace/item/1099150505795841",
-   "en_rango": false,
-   "detectado": "2026-10-07 16:27:14"
   }
  },
- "fb_ultima": "2026-10-09T16:58:01",
- "fb_turno": 1,
+ "fb_ultima": "2026-10-09T21:45:43",
+ "fb_turno": 2,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
