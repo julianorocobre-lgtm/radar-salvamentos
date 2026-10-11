@@ -283,12 +283,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47245-motocicletas-honda-wave-en-bogota-aprox:56--und.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47246-motocicletas-honda-wave-en-bogota-aprox:57-und.html": false
  },
- "ultima_revision": "2026-10-11 02:49:34",
+ "ultima_revision": "2026-10-11 09:35:47",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 15,
-  "avisos": 91,
-  "usd": 0.2115
+  "corridas": 16,
+  "avisos": 92,
+  "usd": 0.218
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -442,7 +442,7 @@
    "detectado": "2026-10-07 16:27:14"
   }
  },
- "fb_ultima": "2026-10-11T02:49:08",
- "fb_turno": 3,
+ "fb_ultima": "2026-10-11T09:35:16",
+ "fb_turno": 4,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
