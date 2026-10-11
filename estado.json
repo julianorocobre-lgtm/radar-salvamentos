@@ -283,12 +283,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47245-motocicletas-honda-wave-en-bogota-aprox:56--und.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47246-motocicletas-honda-wave-en-bogota-aprox:57-und.html": false
  },
- "ultima_revision": "2026-10-10 20:31:28",
+ "ultima_revision": "2026-10-11 02:49:34",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 14,
-  "avisos": 90,
-  "usd": 0.205
+  "corridas": 15,
+  "avisos": 91,
+  "usd": 0.2115
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -440,24 +440,9 @@
    "url": "https://www.facebook.com/marketplace/item/1974068139952561",
    "en_rango": false,
    "detectado": "2026-10-07 16:27:14"
-  },
-  "fb-4743944069215903": {
-   "id": "fb-4743944069215903",
-   "fuente": "Facebook Marketplace",
-   "titulo": "FORD FIESTA",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Bogotá, Colombia",
-   "precio": 0,
-   "cierre": "",
-   "publicado": "2026-09-27 01:17:26",
-   "foto": "",
-   "url": "https://www.facebook.com/marketplace/item/4743944069215903",
-   "en_rango": false,
-   "detectado": "2026-10-07 16:27:14"
   }
  },
- "fb_ultima": "2026-10-10T17:51:36",
- "fb_turno": 2,
+ "fb_ultima": "2026-10-11T02:49:08",
+ "fb_turno": 3,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
