@@ -283,12 +283,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47245-motocicletas-honda-wave-en-bogota-aprox:56--und.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47246-motocicletas-honda-wave-en-bogota-aprox:57-und.html": false
  },
- "ultima_revision": "2026-10-11 21:01:30",
+ "ultima_revision": "2026-10-12 04:10:09",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 19,
-  "avisos": 95,
-  "usd": 0.2375
+  "corridas": 20,
+  "avisos": 96,
+  "usd": 0.244
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -425,24 +425,9 @@
    "url": "https://www.facebook.com/marketplace/item/3282945271893337",
    "en_rango": false,
    "detectado": "2026-10-07 16:27:14"
-  },
-  "fb-1974068139952561": {
-   "id": "fb-1974068139952561",
-   "fuente": "Facebook Marketplace",
-   "titulo": "Vende repuestos de Swift 1.0",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Cucunubá",
-   "precio": 0,
-   "cierre": "",
-   "publicado": "2026-09-28 00:12:08",
-   "foto": "",
-   "url": "https://www.facebook.com/marketplace/item/1974068139952561",
-   "en_rango": false,
-   "detectado": "2026-10-07 16:27:14"
   }
  },
- "fb_ultima": "2026-10-11T21:01:05",
- "fb_turno": 3,
+ "fb_ultima": "2026-10-12T04:09:43",
+ "fb_turno": 4,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
