@@ -283,12 +283,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47245-motocicletas-honda-wave-en-bogota-aprox:56--und.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47246-motocicletas-honda-wave-en-bogota-aprox:57-und.html": false
  },
- "ultima_revision": "2026-10-13 10:56:57",
+ "ultima_revision": "2026-10-13 16:01:12",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 24,
-  "avisos": 100,
-  "usd": 0.27
+  "corridas": 25,
+  "avisos": 101,
+  "usd": 0.2765
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -395,24 +395,9 @@
    "url": "https://www.facebook.com/marketplace/item/1121296490588481",
    "en_rango": false,
    "detectado": "2026-10-07 16:27:14"
-  },
-  "fb-1070663678911910": {
-   "id": "fb-1070663678911910",
-   "fuente": "Facebook Marketplace",
-   "titulo": "Renault Twingo dinamy modelo 2005",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Mariquita, Tolima",
-   "precio": 7500000,
-   "cierre": "",
-   "publicado": "2026-09-29 12:44:45",
-   "foto": "",
-   "url": "https://www.facebook.com/marketplace/item/1070663678911910",
-   "en_rango": true,
-   "detectado": "2026-10-07 16:47:14"
   }
  },
- "fb_ultima": "2026-10-13T10:56:33",
- "fb_turno": 4,
+ "fb_ultima": "2026-10-13T16:00:23",
+ "fb_turno": 1,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
