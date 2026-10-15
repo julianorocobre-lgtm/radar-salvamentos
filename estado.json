@@ -141,7 +141,8 @@
   "superbid-5055073": "2026-10-10 10:30:35",
   "superbid-5055072": "2026-10-10 10:30:35",
   "superbid-5053357": "2026-10-10 10:30:35",
-  "fb-1833317707883699": "2026-10-14 19:45:32"
+  "fb-1833317707883699": "2026-10-14 19:45:32",
+  "fb-1663210495176005": "2026-10-15 00:18:41"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -284,12 +285,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47245-motocicletas-honda-wave-en-bogota-aprox:56--und.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/motos-y-cuatrimotos/47246-motocicletas-honda-wave-en-bogota-aprox:57-und.html": false
  },
- "ultima_revision": "2026-10-14 19:45:32",
+ "ultima_revision": "2026-10-15 00:18:41",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 31,
-  "avisos": 107,
-  "usd": 0.3155
+  "corridas": 32,
+  "avisos": 108,
+  "usd": 0.322
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -381,9 +382,24 @@
    "url": "https://www.facebook.com/marketplace/item/1833317707883699",
    "en_rango": true,
    "detectado": "2026-10-14 19:45:32"
+  },
+  "fb-1663210495176005": {
+   "id": "fb-1663210495176005",
+   "fuente": "Facebook Marketplace",
+   "titulo": "RAV4 Toyota híbrida",
+   "vendedor": "",
+   "subasta": "Búsqueda: camioneta chocada",
+   "ciudad": "Medellín, Antioquia",
+   "precio": 0,
+   "cierre": "",
+   "publicado": "2026-10-14 20:31:58",
+   "foto": "https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-6/848517226_2593379454522902_1416796279215404685_n.jpg?stp=c150.0.896.896a_dst-jpg_tt6&cstp=mx896x896&ctp=s565x565&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=9ARaFudmy5MQ7kNvwFWa80y&_nc_oc=AdrARsw1TWjQgEkn_Zpn5wFipB8km4IdijxE3Xri9HEP-y1Z8uBfsiYgGEDdVb0BCJk&_nc_zt=23&_nc_ht=scontent.fmad6-1.fna&_nc_gid=kK_m_HEBuvQ0ssixAEmc_w&_nc_ss=72289&oh=00_AQOlLA4n2n97qAXLOvHtIHFT4W_cFSPb0TeFlkBPSE6YaQ&oe=6AD62189",
+   "url": "https://www.facebook.com/marketplace/item/1663210495176005",
+   "en_rango": false,
+   "detectado": "2026-10-15 00:18:41"
   }
  },
- "fb_ultima": "2026-10-14T19:45:08",
- "fb_turno": 3,
+ "fb_ultima": "2026-10-15T00:18:11",
+ "fb_turno": 4,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
