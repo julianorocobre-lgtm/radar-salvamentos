@@ -212,7 +212,11 @@
   "syc-47343": "2026-10-16 18:47:35",
   "syc-47342": "2026-10-16 18:47:35",
   "syc-47341": "2026-10-16 18:47:35",
-  "syc-47340": "2026-10-16 18:47:35"
+  "syc-47340": "2026-10-16 18:47:35",
+  "fb-995072000282653": "2026-10-17 16:44:55",
+  "fb-1480314547494315": "2026-10-17 16:44:55",
+  "fb-2318944718863368": "2026-10-17 16:44:55",
+  "fb-1908626753455781": "2026-10-17 16:44:55"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -394,12 +398,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47299-chevrolet-tahoe-53l-4x4-lt-placa-787.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47300-land-rover-range-rover-evoque-dynamic-20-si4-turbo-4x4-placa-679.html": false
  },
- "ultima_revision": "2026-10-17 14:37:16",
+ "ultima_revision": "2026-10-17 16:44:55",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 45,
-  "avisos": 123,
-  "usd": 0.4095
+  "corridas": 46,
+  "avisos": 127,
+  "usd": 0.4205
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -506,9 +510,69 @@
    "url": "https://www.facebook.com/marketplace/item/1470388941618127",
    "en_rango": false,
    "detectado": "2026-10-15 14:02:16"
+  },
+  "fb-995072000282653": {
+   "id": "fb-995072000282653",
+   "fuente": "Facebook Marketplace",
+   "titulo": "2026 Sedan Córdoba 1997",
+   "vendedor": "",
+   "subasta": "Búsqueda: salvamento",
+   "ciudad": "Amagá",
+   "precio": 6500000,
+   "cierre": "",
+   "publicado": "2026-10-17 21:07:42",
+   "foto": "https://scontent.fyeg1-1.fna.fbcdn.net/v/t39.84726-6/855927088_1292944862961801_9018352267167489877_n.jpg?stp=c1.0.524.524a_dst-jpg_p526x395_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=8LG4PkP6m80Q7kNvwFqgYl3&_nc_oc=AdpRC7BnCJJJfvMNbfQdLG6S3B1DyE4E6la6emNIDeZPpT0l8Gn8shs2e6uKS-b7ju4&_nc_zt=14&_nc_ht=scontent.fyeg1-1.fna&_nc_gid=BgRNkVlU1qm6nUOWZkw4pg&_nc_ss=72289&oh=00_AQPadAunNRv-lpWB7Z965shbLxB2w4TX5frlvpLmT0v-aw&oe=6AD9DA4C",
+   "url": "https://www.facebook.com/marketplace/item/995072000282653",
+   "en_rango": true,
+   "detectado": "2026-10-17 16:44:55"
+  },
+  "fb-1480314547494315": {
+   "id": "fb-1480314547494315",
+   "fuente": "Facebook Marketplace",
+   "titulo": "1988 Mercedes+Benz+ 230+e W124",
+   "vendedor": "",
+   "subasta": "Búsqueda: salvamento",
+   "ciudad": "Medellín, Antioquia",
+   "precio": 25000000,
+   "cierre": "",
+   "publicado": "2026-10-17 14:29:14",
+   "foto": "https://scontent.fyeg1-1.fna.fbcdn.net/v/t39.84726-6/853627715_1851594879357262_8255518741851909655_n.jpg?stp=c0.87.526.526a_dst-jpg_p526x395_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=kHUuDbn6IoUQ7kNvwEmXOEe&_nc_oc=AdpS-QaFqqoUgtTiKGt_vwZ16TgQ0ZmxdLVooOUKJKZjTK1XLFkAfyX70Z4T_9BNFuw&_nc_zt=14&_nc_ht=scontent.fyeg1-1.fna&_nc_gid=BgRNkVlU1qm6nUOWZkw4pg&_nc_ss=72289&oh=00_AQN_osZLOwioDykBKgJk1xOBXsKMMek069XQ1N2oTEWglg&oe=6AD9C254",
+   "url": "https://www.facebook.com/marketplace/item/1480314547494315",
+   "en_rango": false,
+   "detectado": "2026-10-17 16:44:55"
+  },
+  "fb-2318944718863368": {
+   "id": "fb-2318944718863368",
+   "fuente": "Facebook Marketplace",
+   "titulo": "2026 Chevrolet+ 2005 0",
+   "vendedor": "",
+   "subasta": "Búsqueda: salvamento",
+   "ciudad": "Andes, Antioquia",
+   "precio": 55000000,
+   "cierre": "",
+   "publicado": "2026-10-17 17:33:57",
+   "foto": "https://scontent.fyeg1-1.fna.fbcdn.net/v/t39.84726-6/852122421_2670486353408656_864053201924157427_n.jpg?stp=c0.0.525.525a_dst-jpg_p526x395_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Oy98IZyGxisQ7kNvwHdWX60&_nc_oc=Adp9ASskUXnOw8svZztZo0An71v-aOi1KOGOJGZ5jwOd1AomxMvXeJSAk5bOra7oV0Y&_nc_zt=14&_nc_ht=scontent.fyeg1-1.fna&_nc_gid=i7PtH5n5IF1SnWUyZvmuWA&_nc_ss=7f289&oh=00_AQP0-CzhcQ9GaaIcym6kcwJLzZLbJaiD4bsOhtzzl9mLrg&oe=6AD9D43B",
+   "url": "https://www.facebook.com/marketplace/item/2318944718863368",
+   "en_rango": false,
+   "detectado": "2026-10-17 16:44:55"
+  },
+  "fb-1908626753455781": {
+   "id": "fb-1908626753455781",
+   "fuente": "Facebook Marketplace",
+   "titulo": "2026 Chevrolet+ 2005 0",
+   "vendedor": "",
+   "subasta": "Búsqueda: salvamento",
+   "ciudad": "Ciudad Bolívar, Antioquia",
+   "precio": 55000000,
+   "cierre": "",
+   "publicado": "2026-10-17 16:47:50",
+   "foto": "https://scontent.fyeg1-1.fna.fbcdn.net/v/t39.84726-6/855355326_1138468075398099_64878718440142575_n.jpg?stp=c0.87.526.526a_dst-jpg_p526x395_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=IXkJh3ryUHIQ7kNvwFgHFlR&_nc_oc=AdpnIXG5TjD07CODzkB-K7GSd7jWI1MhWBz5Nwbkq815mhoekNScXvIdzrDVO4aMKZk&_nc_zt=14&_nc_ht=scontent.fyeg1-1.fna&_nc_gid=i7PtH5n5IF1SnWUyZvmuWA&_nc_ss=7f289&oh=00_AQPpPVY8tRbMc5S7AOY_Z8jAlqB5N2Fo9kAO23oqWjT8Vg&oe=6AD9BFBD",
+   "url": "https://www.facebook.com/marketplace/item/1908626753455781",
+   "en_rango": false,
+   "detectado": "2026-10-17 16:44:55"
   }
  },
- "fb_ultima": "2026-10-17T12:26:08",
- "fb_turno": 1,
+ "fb_ultima": "2026-10-17T16:44:21",
+ "fb_turno": 2,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
