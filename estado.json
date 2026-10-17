@@ -394,12 +394,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47299-chevrolet-tahoe-53l-4x4-lt-placa-787.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47300-land-rover-range-rover-evoque-dynamic-20-si4-turbo-4x4-placa-679.html": false
  },
- "ultima_revision": "2026-10-16 18:47:35",
+ "ultima_revision": "2026-10-16 21:45:35",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 41,
-  "avisos": 119,
-  "usd": 0.3835
+  "corridas": 42,
+  "avisos": 120,
+  "usd": 0.39
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -445,21 +445,6 @@
    "foto": "",
    "url": "https://www.facebook.com/marketplace/item/1757855348819130",
    "en_rango": true,
-   "detectado": "2026-10-07 16:27:14"
-  },
-  "fb-1604866981187660": {
-   "id": "fb-1604866981187660",
-   "fuente": "Facebook Marketplace",
-   "titulo": "2027 Fiat+1 Fiat+1 Fiat+1",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Zipaquirá",
-   "precio": 0,
-   "cierre": "",
-   "publicado": "2026-10-02 20:56:59",
-   "foto": "",
-   "url": "https://www.facebook.com/marketplace/item/1604866981187660",
-   "en_rango": false,
    "detectado": "2026-10-07 16:27:14"
   },
   "fb-1833317707883699": {
@@ -538,7 +523,7 @@
    "detectado": "2026-10-15 14:02:16"
   }
  },
- "fb_ultima": "2026-10-16T16:28:55",
- "fb_turno": 1,
+ "fb_ultima": "2026-10-16T21:45:12",
+ "fb_turno": 2,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
