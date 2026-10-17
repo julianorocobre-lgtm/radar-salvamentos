@@ -394,12 +394,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47299-chevrolet-tahoe-53l-4x4-lt-placa-787.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47300-land-rover-range-rover-evoque-dynamic-20-si4-turbo-4x4-placa-679.html": false
  },
- "ultima_revision": "2026-10-16 21:45:35",
+ "ultima_revision": "2026-10-17 02:28:47",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 42,
-  "avisos": 120,
-  "usd": 0.39
+  "corridas": 43,
+  "avisos": 121,
+  "usd": 0.3965
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -430,21 +430,6 @@
    "foto": "",
    "url": "https://www.facebook.com/marketplace/item/1000823676365625",
    "en_rango": false,
-   "detectado": "2026-10-07 16:27:14"
-  },
-  "fb-1757855348819130": {
-   "id": "fb-1757855348819130",
-   "fuente": "Facebook Marketplace",
-   "titulo": "Logan 2010  1.4..al día no reportes",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Bogotá, Colombia",
-   "precio": 9300000,
-   "cierre": "",
-   "publicado": "2026-10-03 00:33:45",
-   "foto": "",
-   "url": "https://www.facebook.com/marketplace/item/1757855348819130",
-   "en_rango": true,
    "detectado": "2026-10-07 16:27:14"
   },
   "fb-1833317707883699": {
@@ -523,7 +508,7 @@
    "detectado": "2026-10-15 14:02:16"
   }
  },
- "fb_ultima": "2026-10-16T21:45:12",
- "fb_turno": 2,
+ "fb_ultima": "2026-10-17T02:28:12",
+ "fb_turno": 3,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
