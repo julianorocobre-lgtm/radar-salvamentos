@@ -398,12 +398,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47299-chevrolet-tahoe-53l-4x4-lt-placa-787.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47300-land-rover-range-rover-evoque-dynamic-20-si4-turbo-4x4-placa-679.html": false
  },
- "ultima_revision": "2026-10-18 06:32:26",
+ "ultima_revision": "2026-10-18 09:51:08",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 49,
-  "avisos": 130,
-  "usd": 0.44
+  "corridas": 50,
+  "avisos": 131,
+  "usd": 0.4465
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -572,7 +572,7 @@
    "detectado": "2026-10-17 16:44:55"
   }
  },
- "fb_ultima": "2026-10-18T06:31:55",
- "fb_turno": 1,
+ "fb_ultima": "2026-10-18T09:49:31",
+ "fb_turno": 2,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
