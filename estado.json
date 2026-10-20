@@ -220,7 +220,42 @@
   "fb-2083633699188213": "2026-10-18 22:00:21",
   "fb-2246292386307089": "2026-10-18 22:00:21",
   "fb-2168540720398211": "2026-10-18 22:00:21",
-  "fb-2235599457000452": "2026-10-19 10:53:52"
+  "fb-2235599457000452": "2026-10-19 10:53:52",
+  "superbid-5065054": "2026-10-20 13:45:22",
+  "superbid-5065067": "2026-10-20 13:45:22",
+  "superbid-5065068": "2026-10-20 13:45:22",
+  "superbid-5063379": "2026-10-20 13:45:22",
+  "superbid-5065059": "2026-10-20 13:45:22",
+  "superbid-5065062": "2026-10-20 13:45:22",
+  "superbid-5063380": "2026-10-20 13:45:22",
+  "superbid-5065063": "2026-10-20 13:45:22",
+  "superbid-5065061": "2026-10-20 13:45:22",
+  "superbid-5063373": "2026-10-20 13:45:22",
+  "superbid-5065069": "2026-10-20 13:45:22",
+  "superbid-5063378": "2026-10-20 13:45:22",
+  "superbid-5063391": "2026-10-20 13:45:22",
+  "superbid-5063392": "2026-10-20 13:45:22",
+  "superbid-5063395": "2026-10-20 13:45:22",
+  "superbid-5065055": "2026-10-20 13:45:22",
+  "superbid-5065051": "2026-10-20 13:45:22",
+  "superbid-5065052": "2026-10-20 13:45:22",
+  "superbid-5065064": "2026-10-20 13:45:22",
+  "superbid-5065053": "2026-10-20 13:45:22",
+  "superbid-5065066": "2026-10-20 13:45:22",
+  "superbid-5065065": "2026-10-20 13:45:22",
+  "superbid-5063374": "2026-10-20 13:45:22",
+  "superbid-5063394": "2026-10-20 13:45:22",
+  "superbid-5063397": "2026-10-20 13:45:22",
+  "superbid-5063377": "2026-10-20 13:45:22",
+  "superbid-5063375": "2026-10-20 13:45:22",
+  "superbid-5063371": "2026-10-20 13:45:22",
+  "superbid-5063376": "2026-10-20 13:45:22",
+  "superbid-5065060": "2026-10-20 13:45:22",
+  "superbid-5063372": "2026-10-20 13:45:22",
+  "superbid-5065070": "2026-10-20 13:45:22",
+  "superbid-5063396": "2026-10-20 13:45:22",
+  "superbid-5063393": "2026-10-20 13:45:22",
+  "superbid-5063370": "2026-10-20 13:45:22"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -402,12 +437,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47299-chevrolet-tahoe-53l-4x4-lt-placa-787.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47300-land-rover-range-rover-evoque-dynamic-20-si4-turbo-4x4-placa-679.html": false
  },
- "ultima_revision": "2026-10-20 09:38:46",
+ "ultima_revision": "2026-10-20 13:45:22",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 60,
-  "avisos": 143,
-  "usd": 0.5145
+  "corridas": 61,
+  "avisos": 144,
+  "usd": 0.521
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -636,7 +671,7 @@
    "detectado": "2026-10-19 10:53:52"
   }
  },
- "fb_ultima": "2026-10-20T09:38:08",
- "fb_turno": 4,
+ "fb_ultima": "2026-10-20T13:44:46",
+ "fb_turno": 1,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
