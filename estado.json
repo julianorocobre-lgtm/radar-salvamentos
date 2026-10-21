@@ -435,14 +435,19 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47297-suzuki-swift-dzire-hybrid-gl-cvt-placa-629.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47298-ford-mustang-gt-premium-convertible-placa-003.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47299-chevrolet-tahoe-53l-4x4-lt-placa-787.html": false,
-  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47300-land-rover-range-rover-evoque-dynamic-20-si4-turbo-4x4-placa-679.html": false
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47300-land-rover-range-rover-evoque-dynamic-20-si4-turbo-4x4-placa-679.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47383-dongfeng-rich-6-2025-placa-0-km-en-cali.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47384-dongfeng-rich-6-2025-placa-0-km-en-cali.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47385-dongfeng-rich-6-2025-placa-0-km-en-cali.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47386-dongfeng-rich-6-2025-placa-0-km-en-cali.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47387-dongfeng-rich-6-2025-placa-0-km-en-cali.html": false
  },
- "ultima_revision": "2026-10-21 14:19:23",
+ "ultima_revision": "2026-10-21 17:34:59",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 66,
-  "avisos": 149,
-  "usd": 0.5535
+  "corridas": 67,
+  "avisos": 150,
+  "usd": 0.56
  },
  "fb_cache": {
   "fb-2605055506676137": {
@@ -671,7 +676,7 @@
    "detectado": "2026-10-19 10:53:52"
   }
  },
- "fb_ultima": "2026-10-21T14:19:05",
- "fb_turno": 2,
+ "fb_ultima": "2026-10-21T17:34:33",
+ "fb_turno": 3,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
