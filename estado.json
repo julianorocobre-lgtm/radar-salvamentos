@@ -442,7 +442,7 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47386-dongfeng-rich-6-2025-placa-0-km-en-cali.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47387-dongfeng-rich-6-2025-placa-0-km-en-cali.html": false
  },
- "ultima_revision": "2026-10-21 17:34:59",
+ "ultima_revision": "2026-10-21 19:54:35",
  "fb_gasto": {
   "mes": "2026-10",
   "corridas": 67,
@@ -450,36 +450,6 @@
   "usd": 0.56
  },
  "fb_cache": {
-  "fb-2605055506676137": {
-   "id": "fb-2605055506676137",
-   "fuente": "Facebook Marketplace",
-   "titulo": "Se vende Aveo motion 2013",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Bogotá, Colombia",
-   "precio": 29000000,
-   "cierre": "",
-   "publicado": "2026-10-07 17:42:50",
-   "foto": "",
-   "url": "https://www.facebook.com/marketplace/item/2605055506676137",
-   "en_rango": false,
-   "detectado": "2026-10-07 16:27:14"
-  },
-  "fb-1000823676365625": {
-   "id": "fb-1000823676365625",
-   "fuente": "Facebook Marketplace",
-   "titulo": "Se vende Aveo emotion 2013",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Bogotá, Colombia",
-   "precio": 29000000,
-   "cierre": "",
-   "publicado": "2026-10-07 17:40:59",
-   "foto": "",
-   "url": "https://www.facebook.com/marketplace/item/1000823676365625",
-   "en_rango": false,
-   "detectado": "2026-10-07 16:27:14"
-  },
   "fb-1833317707883699": {
    "id": "fb-1833317707883699",
    "fuente": "Facebook Marketplace",
