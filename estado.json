@@ -571,12 +571,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47415-chevrolet-onix-nb-lt-turbo-at-placa-219.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47416-mazda-cx5-grand-touring-25-at-4x2-placa-191.html": false
  },
- "ultima_revision": "2026-10-24 14:39:21",
+ "ultima_revision": "2026-10-24 16:53:59",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 81,
-  "avisos": 164,
-  "usd": 0.651
+  "corridas": 82,
+  "avisos": 165,
+  "usd": 0.6575
  },
  "fb_cache": {
   "fb-1833317707883699": {
@@ -775,7 +775,7 @@
    "detectado": "2026-10-19 10:53:52"
   }
  },
- "fb_ultima": "2026-10-24T12:26:06",
- "fb_turno": 1,
+ "fb_ultima": "2026-10-24T16:53:35",
+ "fb_turno": 2,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
