@@ -328,7 +328,8 @@
   "syc-47465": "2026-10-23 17:39:58",
   "syc-47464": "2026-10-23 17:39:58",
   "syc-47463": "2026-10-23 17:39:58",
-  "syc-47462": "2026-10-23 17:39:58"
+  "syc-47462": "2026-10-23 17:39:58",
+  "fb-1587587439344362": "2026-10-26 16:45:50"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -571,12 +572,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47415-chevrolet-onix-nb-lt-turbo-at-placa-219.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47416-mazda-cx5-grand-touring-25-at-4x2-placa-191.html": false
  },
- "ultima_revision": "2026-10-26 12:23:08",
+ "ultima_revision": "2026-10-26 16:45:50",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 90,
-  "avisos": 173,
-  "usd": 0.7095
+  "corridas": 91,
+  "avisos": 174,
+  "usd": 0.716
  },
  "fb_cache": {
   "fb-1833317707883699": {
@@ -773,9 +774,24 @@
    "url": "https://www.facebook.com/marketplace/item/2235599457000452",
    "en_rango": true,
    "detectado": "2026-10-19 10:53:52"
+  },
+  "fb-1587587439344362": {
+   "id": "fb-1587587439344362",
+   "fuente": "Facebook Marketplace",
+   "titulo": "Carro honda Civic 1994 1500 Proyecto por terminar",
+   "vendedor": "",
+   "subasta": "Búsqueda: carro para reparar",
+   "ciudad": "Medellín, Antioquia",
+   "precio": 9500000,
+   "cierre": "",
+   "publicado": "2026-10-26 14:01:11",
+   "foto": "https://scontent.fvlc4-1.fna.fbcdn.net/v/t39.30808-6/862326283_4904665809810547_6236895323430509678_n.jpg?stp=c0.83.768.768a_dst-jpg_tt6&cstp=mx768x768&ctp=s565x565&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=Lo0NdLlu5BQQ7kNvwGIGibg&_nc_oc=Adq00EQ6lqH1zWVmEDKI3pzSpPODigCLnBhrITsTzPsMfDceZVKjZVKY8DHV9to9gZ0&_nc_zt=23&_nc_ht=scontent.fvlc4-1.fna&_nc_gid=QYLM4wDdoem1BO-6WkZoPw&_nc_ss=72289&oh=00_AQO09F6hkCi85bOFEicgmwK9rVtf4xJrCUh5NWCsJsfOnA&oe=6AE5864A",
+   "url": "https://www.facebook.com/marketplace/item/1587587439344362",
+   "en_rango": true,
+   "detectado": "2026-10-26 16:45:50"
   }
  },
- "fb_ultima": "2026-10-26T12:22:13",
- "fb_turno": 2,
+ "fb_ultima": "2026-10-26T16:45:25",
+ "fb_turno": 3,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
