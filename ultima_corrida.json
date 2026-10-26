@@ -1,5 +1,5 @@
 {
- "revision": "2026-10-25 19:21:21",
+ "revision": "2026-10-26 00:07:26",
  "primera_vez": false,
  "errores": [
   "Superbid: Command '['curl', '-sgL', '--fail', '-m', '40', '-A', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36', 'https://offer-query.superbid.net/offers/?locale=es_CO&timeZoneId=America/Bogota&portalId=[17]&searchType=opened&pageNumber=1&pageSize=500']' returned non-zero exit status 22."
