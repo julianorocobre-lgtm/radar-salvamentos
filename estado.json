@@ -572,29 +572,14 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47415-chevrolet-onix-nb-lt-turbo-at-placa-219.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47416-mazda-cx5-grand-touring-25-at-4x2-placa-191.html": false
  },
- "ultima_revision": "2026-10-28 14:43:45",
+ "ultima_revision": "2026-10-28 18:35:49",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 100,
-  "avisos": 183,
-  "usd": 0.7745
+  "corridas": 101,
+  "avisos": 184,
+  "usd": 0.781
  },
  "fb_cache": {
-  "fb-1833317707883699": {
-   "id": "fb-1833317707883699",
-   "fuente": "Facebook Marketplace",
-   "titulo": "Carro honda Civic modelo 1994 perfecto motor",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro para reparar",
-   "ciudad": "Medellín, Antioquia",
-   "precio": 9000000,
-   "cierre": "",
-   "publicado": "2026-10-14 17:47:56",
-   "foto": "https://scontent-mad2-1.xx.fbcdn.net/v/t39.84726-6/849147012_1491567876360312_8492891420997458590_n.jpg?stp=c0.86.526.526a_dst-jpg_p526x395_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=5vN92zxNUScQ7kNvwH53ExQ&_nc_oc=AdqQSsTWgxqblQ2XcUj2A67fXJW3qWfswJs8_kC1PklfByfOHnE16THvBq8C0c7_Q0lwlqZVTppeGIedwJVJvall&_nc_zt=14&_nc_ht=scontent-mad2-1.xx&_nc_gid=Jv968TN8MqumNElLa-1KbQ&_nc_ss=72289&oh=00_AQPYI-lfbMqUpEOoTQv6xHm4hpTJ1O8ymcHl30olvPXUDA&oe=6AD5E2C5",
-   "url": "https://www.facebook.com/marketplace/item/1833317707883699",
-   "en_rango": true,
-   "detectado": "2026-10-14 19:45:32"
-  },
   "fb-1663210495176005": {
    "id": "fb-1663210495176005",
    "fuente": "Facebook Marketplace",
@@ -791,7 +776,7 @@
    "detectado": "2026-10-26 16:45:50"
   }
  },
- "fb_ultima": "2026-10-28T14:43:08",
- "fb_turno": 4,
+ "fb_ultima": "2026-10-28T18:35:13",
+ "fb_turno": 1,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
