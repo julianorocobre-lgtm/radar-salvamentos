@@ -622,12 +622,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47668-ford-ranger-xls-gasolina-25l-gasol-dc-placa-474.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47669-ford-ranger-xlt-diesel-placa-727.html": false
  },
- "ultima_revision": "2026-10-28 21:53:36",
+ "ultima_revision": "2026-10-29 04:16:18",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 102,
-  "avisos": 185,
-  "usd": 0.7875
+  "corridas": 103,
+  "avisos": 186,
+  "usd": 0.794
  },
  "fb_cache": {
   "fb-1835253854266380": {
@@ -811,7 +811,7 @@
    "detectado": "2026-10-26 16:45:50"
   }
  },
- "fb_ultima": "2026-10-28T21:53:12",
- "fb_turno": 2,
+ "fb_ultima": "2026-10-29T04:15:48",
+ "fb_turno": 3,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
