@@ -350,7 +350,51 @@
   "superbid-5075273": "2026-10-29 20:13:21",
   "superbid-5075269": "2026-10-29 20:13:21",
   "superbid-5075271": "2026-10-29 20:13:21",
-  "superbid-5075270": "2026-10-29 20:13:21"
+  "superbid-5075270": "2026-10-29 20:13:21",
+  "superbid-5080126": "2026-10-30 18:05:39",
+  "superbid-5076225": "2026-10-30 18:05:39",
+  "superbid-5080095": "2026-10-30 18:05:39",
+  "superbid-5080127": "2026-10-30 18:05:39",
+  "superbid-5076196": "2026-10-30 18:05:39",
+  "superbid-5080093": "2026-10-30 18:05:39",
+  "superbid-5076200": "2026-10-30 18:05:39",
+  "superbid-5076220": "2026-10-30 18:05:39",
+  "superbid-5080139": "2026-10-30 18:05:39",
+  "superbid-5076223": "2026-10-30 18:05:39",
+  "superbid-5076198": "2026-10-30 18:05:39",
+  "superbid-5076222": "2026-10-30 18:05:39",
+  "superbid-5080144": "2026-10-30 18:05:39",
+  "superbid-5080141": "2026-10-30 18:05:39",
+  "superbid-5080143": "2026-10-30 18:05:39",
+  "superbid-5080137": "2026-10-30 18:05:39",
+  "superbid-5080094": "2026-10-30 18:05:39",
+  "superbid-5076199": "2026-10-30 18:05:39",
+  "superbid-5080098": "2026-10-30 18:05:39",
+  "superbid-5080140": "2026-10-30 18:05:39",
+  "superbid-5080142": "2026-10-30 18:05:39",
+  "superbid-5080097": "2026-10-30 18:05:39",
+  "superbid-5080096": "2026-10-30 18:05:39",
+  "superbid-5080138": "2026-10-30 18:05:39",
+  "superbid-5076224": "2026-10-30 18:05:39",
+  "superbid-5076197": "2026-10-30 18:05:39",
+  "superbid-5076221": "2026-10-30 18:05:39",
+  "superbid-5080136": "2026-10-30 18:05:39",
+  "superbid-5080135": "2026-10-30 18:05:39",
+  "syc-47807": "2026-10-30 18:05:39",
+  "syc-47808": "2026-10-30 18:05:39",
+  "syc-47809": "2026-10-30 18:05:39",
+  "syc-47810": "2026-10-30 18:05:39",
+  "syc-47811": "2026-10-30 18:05:39",
+  "syc-47812": "2026-10-30 18:05:39",
+  "syc-47813": "2026-10-30 18:05:39",
+  "syc-47814": "2026-10-30 18:05:39",
+  "syc-47815": "2026-10-30 18:05:39",
+  "syc-47816": "2026-10-30 18:05:39",
+  "syc-47817": "2026-10-30 18:05:39",
+  "syc-47818": "2026-10-30 18:05:39",
+  "syc-47819": "2026-10-30 18:05:39",
+  "syc-47820": "2026-10-30 18:05:39",
+  "syc-47821": "2026-10-30 18:05:39"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -694,12 +738,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47764-chevrolet-npr-reward-euro-iv-placa-297.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47762-volkswagen-amarok-trendline-20l-103kw-4x4-mt-cabina-doble-platon-placa-20.html": false
  },
- "ultima_revision": "2026-10-30 14:21:36",
+ "ultima_revision": "2026-10-30 18:05:39",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 109,
-  "avisos": 192,
-  "usd": 0.833
+  "corridas": 110,
+  "avisos": 193,
+  "usd": 0.8395
  },
  "fb_cache": {
   "fb-995072000282653": {
@@ -838,7 +882,7 @@
    "detectado": "2026-10-26 16:45:50"
   }
  },
- "fb_ultima": "2026-10-30T14:20:47",
- "fb_turno": 1,
+ "fb_ultima": "2026-10-30T18:05:15",
+ "fb_turno": 2,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
