@@ -329,7 +329,28 @@
   "syc-47464": "2026-10-23 17:39:58",
   "syc-47463": "2026-10-23 17:39:58",
   "syc-47462": "2026-10-23 17:39:58",
-  "fb-1587587439344362": "2026-10-26 16:45:50"
+  "fb-1587587439344362": "2026-10-26 16:45:50",
+  "superbid-5079215": "2026-10-29 20:13:21",
+  "superbid-5079214": "2026-10-29 20:13:21",
+  "superbid-5079216": "2026-10-29 20:13:21",
+  "superbid-5079205": "2026-10-29 20:13:21",
+  "superbid-5079206": "2026-10-29 20:13:21",
+  "superbid-5079207": "2026-10-29 20:13:21",
+  "superbid-5079213": "2026-10-29 20:13:21",
+  "superbid-5079208": "2026-10-29 20:13:21",
+  "superbid-5079211": "2026-10-29 20:13:21",
+  "superbid-5075272": "2026-10-29 20:13:21",
+  "superbid-5075275": "2026-10-29 20:13:21",
+  "superbid-5075274": "2026-10-29 20:13:21",
+  "superbid-5075277": "2026-10-29 20:13:21",
+  "superbid-5079212": "2026-10-29 20:13:21",
+  "superbid-5079209": "2026-10-29 20:13:21",
+  "superbid-5079210": "2026-10-29 20:13:21",
+  "superbid-5075276": "2026-10-29 20:13:21",
+  "superbid-5075273": "2026-10-29 20:13:21",
+  "superbid-5075269": "2026-10-29 20:13:21",
+  "superbid-5075271": "2026-10-29 20:13:21",
+  "superbid-5075270": "2026-10-29 20:13:21"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -623,29 +644,14 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47669-ford-ranger-xlt-diesel-placa-727.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/mantenimiento-herramientas-y-repuestos/47703-lote-de-98-rines-de-camion-en-desuso-(chatarra-ferrosa-y-aluminio)-apr.html": false
  },
- "ultima_revision": "2026-10-29 16:17:45",
+ "ultima_revision": "2026-10-29 20:13:21",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 105,
-  "avisos": 188,
-  "usd": 0.807
+  "corridas": 106,
+  "avisos": 189,
+  "usd": 0.8135
  },
  "fb_cache": {
-  "fb-1835253854266380": {
-   "id": "fb-1835253854266380",
-   "fuente": "Facebook Marketplace",
-   "titulo": "Motor para reparar Chevrolet n300 1206 Cc",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro para reparar",
-   "ciudad": "Medellín, Antioquia",
-   "precio": 0,
-   "cierre": "",
-   "publicado": "2026-10-15 17:51:29",
-   "foto": "https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/847763684_10240608927258337_4112937767265060283_n.jpg?stp=c0.277.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s565x565&_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=Tjxw576mY90Q7kNvwEzf9r_&_nc_oc=AdrmEYpWHF-PdkEII2GFyW9TbhXJbm-83mcqdQMQADlRhhnRrykyX7B9-gKs5gLzs2k&_nc_zt=23&_nc_ht=scontent-bru2-1.xx&_nc_gid=Ozmmu_kwNzanq3bRz7O1_Q&_nc_ss=72289&oh=00_AQM5Lo61PvtDORYbhKtAohnB-g-qZm46tsTS7Mpw1uXPww&oe=6AD6F43F",
-   "url": "https://www.facebook.com/marketplace/item/1835253854266380",
-   "en_rango": false,
-   "detectado": "2026-10-15 14:02:16"
-  },
   "fb-995072000282653": {
    "id": "fb-995072000282653",
    "fuente": "Facebook Marketplace",
@@ -782,7 +788,7 @@
    "detectado": "2026-10-26 16:45:50"
   }
  },
- "fb_ultima": "2026-10-29T16:17:14",
- "fb_turno": 1,
+ "fb_ultima": "2026-10-29T20:13:03",
+ "fb_turno": 2,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
