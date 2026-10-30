@@ -644,12 +644,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47669-ford-ranger-xlt-diesel-placa-727.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/mantenimiento-herramientas-y-repuestos/47703-lote-de-98-rines-de-camion-en-desuso-(chatarra-ferrosa-y-aluminio)-apr.html": false
  },
- "ultima_revision": "2026-10-30 02:09:17",
+ "ultima_revision": "2026-10-30 09:06:59",
  "fb_gasto": {
   "mes": "2026-10",
-  "corridas": 107,
-  "avisos": 190,
-  "usd": 0.82
+  "corridas": 108,
+  "avisos": 191,
+  "usd": 0.8265
  },
  "fb_cache": {
   "fb-995072000282653": {
@@ -788,7 +788,7 @@
    "detectado": "2026-10-26 16:45:50"
   }
  },
- "fb_ultima": "2026-10-30T02:08:45",
- "fb_turno": 3,
+ "fb_ultima": "2026-10-30T09:06:14",
+ "fb_turno": 4,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
