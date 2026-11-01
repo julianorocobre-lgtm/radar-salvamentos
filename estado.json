@@ -738,29 +738,14 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47764-chevrolet-npr-reward-euro-iv-placa-297.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47762-volkswagen-amarok-trendline-20l-103kw-4x4-mt-cabina-doble-platon-placa-20.html": false
  },
- "ultima_revision": "2026-10-31 20:07:51",
+ "ultima_revision": "2026-11-01 02:30:47",
  "fb_gasto": {
-  "mes": "2026-10",
-  "corridas": 115,
-  "avisos": 198,
-  "usd": 0.872
+  "mes": "2026-11",
+  "usd": 0.0065,
+  "corridas": 1,
+  "avisos": 1
  },
  "fb_cache": {
-  "fb-995072000282653": {
-   "id": "fb-995072000282653",
-   "fuente": "Facebook Marketplace",
-   "titulo": "2026 Sedan Córdoba 1997",
-   "vendedor": "",
-   "subasta": "Búsqueda: salvamento",
-   "ciudad": "Amagá",
-   "precio": 6500000,
-   "cierre": "",
-   "publicado": "2026-10-17 21:07:42",
-   "foto": "https://scontent.fyeg1-1.fna.fbcdn.net/v/t39.84726-6/855927088_1292944862961801_9018352267167489877_n.jpg?stp=c1.0.524.524a_dst-jpg_p526x395_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=8LG4PkP6m80Q7kNvwFqgYl3&_nc_oc=AdpRC7BnCJJJfvMNbfQdLG6S3B1DyE4E6la6emNIDeZPpT0l8Gn8shs2e6uKS-b7ju4&_nc_zt=14&_nc_ht=scontent.fyeg1-1.fna&_nc_gid=BgRNkVlU1qm6nUOWZkw4pg&_nc_ss=72289&oh=00_AQPadAunNRv-lpWB7Z965shbLxB2w4TX5frlvpLmT0v-aw&oe=6AD9DA4C",
-   "url": "https://www.facebook.com/marketplace/item/995072000282653",
-   "en_rango": true,
-   "detectado": "2026-10-17 16:44:55"
-  },
   "fb-2083633699188213": {
    "id": "fb-2083633699188213",
    "fuente": "Facebook Marketplace",
@@ -837,7 +822,7 @@
    "detectado": "2026-10-26 16:45:50"
   }
  },
- "fb_ultima": "2026-10-31T17:09:00",
- "fb_turno": 3,
+ "fb_ultima": "2026-11-01T02:30:18",
+ "fb_turno": 4,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
