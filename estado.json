@@ -739,12 +739,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47764-chevrolet-npr-reward-euro-iv-placa-297.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47762-volkswagen-amarok-trendline-20l-103kw-4x4-mt-cabina-doble-platon-placa-20.html": false
  },
- "ultima_revision": "2026-11-02 04:27:48",
+ "ultima_revision": "2026-11-02 14:41:10",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.039,
-  "corridas": 6,
-  "avisos": 6
+  "usd": 0.0455,
+  "corridas": 7,
+  "avisos": 7
  },
  "fb_cache": {
   "fb-2235599457000452": {
@@ -793,7 +793,7 @@
    "detectado": "2026-11-02 04:27:48"
   }
  },
- "fb_ultima": "2026-11-02T04:27:19",
- "fb_turno": 1,
+ "fb_ultima": "2026-11-02T14:40:53",
+ "fb_turno": 2,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
