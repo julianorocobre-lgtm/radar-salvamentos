@@ -394,7 +394,8 @@
   "syc-47818": "2026-10-30 18:05:39",
   "syc-47819": "2026-10-30 18:05:39",
   "syc-47820": "2026-10-30 18:05:39",
-  "syc-47821": "2026-10-30 18:05:39"
+  "syc-47821": "2026-10-30 18:05:39",
+  "fb-4363780317245428": "2026-11-02 04:27:48"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -738,44 +739,14 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47764-chevrolet-npr-reward-euro-iv-placa-297.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47762-volkswagen-amarok-trendline-20l-103kw-4x4-mt-cabina-doble-platon-placa-20.html": false
  },
- "ultima_revision": "2026-11-01 21:03:01",
+ "ultima_revision": "2026-11-02 04:27:48",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.0325,
-  "corridas": 5,
-  "avisos": 5
+  "usd": 0.039,
+  "corridas": 6,
+  "avisos": 6
  },
  "fb_cache": {
-  "fb-2083633699188213": {
-   "id": "fb-2083633699188213",
-   "fuente": "Facebook Marketplace",
-   "titulo": "2005 Renault 2005 Blanco",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Medellín, Antioquia",
-   "precio": 12000000,
-   "cierre": "",
-   "publicado": "2026-10-19 00:30:23",
-   "foto": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.84726-6/854236663_1476949367668723_5503279567139212665_n.jpg?stp=c0.87.526.526a_dst-jpg_p526x395_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=eR60x1XYo6EQ7kNvwE3m8zm&_nc_oc=AdpQbMRj7Ty7oeVm9ZoU_VV4XNyE6GtsoOquXPCI3icgFlD1HwWanQR3ht29xjFy0MA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=lw9Re0ENTIvH0BnogdeOaQ&_nc_ss=72289&oh=00_AQNg-PT6IxL3Q2-h4ekY6ieTKER2mG7qtt-o26lkHPCdeA&oe=6ADB5B88",
-   "url": "https://www.facebook.com/marketplace/item/2083633699188213",
-   "en_rango": false,
-   "detectado": "2026-10-18 22:00:21"
-  },
-  "fb-2246292386307089": {
-   "id": "fb-2246292386307089",
-   "fuente": "Facebook Marketplace",
-   "titulo": "Vendo Mazda 323HE modelo 96 único dueño muy original en excelentes condiciones mecánicas! Traspaso.",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro chocado",
-   "ciudad": "Envigado",
-   "precio": 7200000,
-   "cierre": "",
-   "publicado": "2026-10-18 21:22:37",
-   "foto": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.84726-6/856058701_1662462545659541_3344207526860685286_n.jpg?stp=c89.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=WP4zzrgRyJMQ7kNvwERckHh&_nc_oc=AdoePfvMOv8HGmlzev0ks7WAQNEtVuIqvln8u_wwVAv2PKbFjrgOZJZ7JsaBX9qnnK8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=lw9Re0ENTIvH0BnogdeOaQ&_nc_ss=72289&oh=00_AQNodMli7TIeogWjRyLomPubTjRf8aZcEje5_pbDus6x6Q&oe=6ADB5381",
-   "url": "https://www.facebook.com/marketplace/item/2246292386307089",
-   "en_rango": true,
-   "detectado": "2026-10-18 22:00:21"
-  },
   "fb-2235599457000452": {
    "id": "fb-2235599457000452",
    "fuente": "Facebook Marketplace",
@@ -805,9 +776,24 @@
    "url": "https://www.facebook.com/marketplace/item/1587587439344362",
    "en_rango": true,
    "detectado": "2026-10-26 16:45:50"
+  },
+  "fb-4363780317245428": {
+   "id": "fb-4363780317245428",
+   "fuente": "Facebook Marketplace",
+   "titulo": "VENDO O CAMBIO",
+   "vendedor": "",
+   "subasta": "Búsqueda: carro chocado",
+   "ciudad": "Barbosa, Antioquia",
+   "precio": 46000000,
+   "cierre": "",
+   "publicado": "2026-11-02 02:15:18",
+   "foto": "https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-6/882105865_1153017633823539_6699296151005246230_n.jpg?stp=c125.0.750.750a_dst-jpg_tt6&cstp=mx750x750&ctp=s565x565&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=hn1gJ3cYwL8Q7kNvwFCy0sD&_nc_oc=AdreWwx-u62oRgrJ4Z7kWBOs_ewK78XtTrMmgZ3nDdwtHd98-GGR2Wf_m8AcidzUduQ&_nc_zt=23&_nc_ht=scontent.fmad6-1.fna&_nc_gid=arXd3duCvBpuOegGZfNmgw&_nc_ss=72289&oh=00_AQR_0qvxM2l_SY2Oz034xlN6JH1LTOd4UqhCIa3K3Q1vDA&oe=6AEE2B91",
+   "url": "https://www.facebook.com/marketplace/item/4363780317245428",
+   "en_rango": false,
+   "detectado": "2026-11-02 04:27:48"
   }
  },
- "fb_ultima": "2026-11-01T21:02:24",
- "fb_turno": 4,
+ "fb_ultima": "2026-11-02T04:27:19",
+ "fb_turno": 1,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
