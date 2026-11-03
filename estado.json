@@ -395,7 +395,28 @@
   "syc-47819": "2026-10-30 18:05:39",
   "syc-47820": "2026-10-30 18:05:39",
   "syc-47821": "2026-10-30 18:05:39",
-  "fb-4363780317245428": "2026-11-02 04:27:48"
+  "fb-4363780317245428": "2026-11-02 04:27:48",
+  "superbid-5079221": "2026-11-03 11:51:45",
+  "superbid-5075301": "2026-11-03 11:51:45",
+  "superbid-5075295": "2026-11-03 11:51:45",
+  "superbid-5075302": "2026-11-03 11:51:45",
+  "superbid-5075290": "2026-11-03 11:51:45",
+  "superbid-5075286": "2026-11-03 11:51:45",
+  "superbid-5075300": "2026-11-03 11:51:45",
+  "superbid-5075292": "2026-11-03 11:51:45",
+  "superbid-5075298": "2026-11-03 11:51:45",
+  "superbid-5075299": "2026-11-03 11:51:45",
+  "superbid-5075294": "2026-11-03 11:51:45",
+  "superbid-5079223": "2026-11-03 11:51:45",
+  "superbid-5075287": "2026-11-03 11:51:45",
+  "superbid-5075291": "2026-11-03 11:51:45",
+  "superbid-5075296": "2026-11-03 11:51:45",
+  "superbid-5075297": "2026-11-03 11:51:45",
+  "superbid-5079225": "2026-11-03 11:51:45",
+  "superbid-5079224": "2026-11-03 11:51:45",
+  "superbid-5079222": "2026-11-03 11:51:45",
+  "superbid-5075293": "2026-11-03 11:51:45",
+  "superbid-5075285": "2026-11-03 11:51:45"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -737,14 +758,19 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47767-chevrolet-n300-max-cargo-12l-mt-plus-doble-airbag-y-abs-placa-132.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47765-renault-oroch-cargo-4x4-placa-766.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47764-chevrolet-npr-reward-euro-iv-placa-297.html": false,
-  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47762-volkswagen-amarok-trendline-20l-103kw-4x4-mt-cabina-doble-platon-placa-20.html": false
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47762-volkswagen-amarok-trendline-20l-103kw-4x4-mt-cabina-doble-platon-placa-20.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47827-camioneta-land-rover-range-rover-evoque-s-2021-placa-jxr249-placa-47023-k.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47828-camioneta-changan-cs15-2023-placa-gds630-placa-62918-km.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47829-camioneta-renault-captur-intens-20-at-2018-placa-eon698-placa-85000-km.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47830-camioneta-renault-captur-20-2022-placa-juv336-placa-47778-km.html": false,
+  "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47831-automovil-ford-fiesta-16-hatchback-2014-placa-hjq120-placa-133748-km.html": false
  },
- "ultima_revision": "2026-11-03 03:57:18",
+ "ultima_revision": "2026-11-03 11:51:45",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.0585,
-  "corridas": 9,
-  "avisos": 9
+  "usd": 0.065,
+  "corridas": 10,
+  "avisos": 10
  },
  "fb_cache": {
   "fb-1587587439344362": {
@@ -778,7 +804,7 @@
    "detectado": "2026-11-02 04:27:48"
   }
  },
- "fb_ultima": "2026-11-03T03:56:52",
- "fb_turno": 4,
+ "fb_ultima": "2026-11-03T11:51:13",
+ "fb_turno": 1,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
