@@ -739,29 +739,14 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47764-chevrolet-npr-reward-euro-iv-placa-297.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47762-volkswagen-amarok-trendline-20l-103kw-4x4-mt-cabina-doble-platon-placa-20.html": false
  },
- "ultima_revision": "2026-11-02 14:41:10",
+ "ultima_revision": "2026-11-02 20:48:03",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.0455,
-  "corridas": 7,
-  "avisos": 7
+  "usd": 0.052,
+  "corridas": 8,
+  "avisos": 8
  },
  "fb_cache": {
-  "fb-2235599457000452": {
-   "id": "fb-2235599457000452",
-   "fuente": "Facebook Marketplace",
-   "titulo": "A la compra carros de todo tipo !!",
-   "vendedor": "",
-   "subasta": "Búsqueda: carro para reparar",
-   "ciudad": "Bello, Antioquia",
-   "precio": 9454548,
-   "cierre": "",
-   "publicado": "2026-10-19 15:42:59",
-   "foto": "https://scontent-bcn1-1.xx.fbcdn.net/v/t39.84726-6/855695320_1759809905080765_3185202639359911560_n.jpg?stp=c0.306.526.526a_dst-jpg_p526x395_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=0aRIOetI5WoQ7kNvwEHNXeD&_nc_oc=Adra4XPc8QJzTh2ntiL8ZHlXbZ7BVvuaXjF_fWMl_uhsaq7aRteaIX1lK79hgwZuxms&_nc_zt=14&_nc_ht=scontent-bcn1-1.xx&_nc_gid=axZ2mCuZOa7Mhg6EFecizQ&_nc_ss=72289&oh=00_AQPUFdhzrhhCqoVq8mm90K6iozcp3RffCIAA0N2fSsa9NQ&oe=6ADC1D2A",
-   "url": "https://www.facebook.com/marketplace/item/2235599457000452",
-   "en_rango": true,
-   "detectado": "2026-10-19 10:53:52"
-  },
   "fb-1587587439344362": {
    "id": "fb-1587587439344362",
    "fuente": "Facebook Marketplace",
@@ -793,7 +778,7 @@
    "detectado": "2026-11-02 04:27:48"
   }
  },
- "fb_ultima": "2026-11-02T14:40:53",
- "fb_turno": 2,
+ "fb_ultima": "2026-11-02T20:47:34",
+ "fb_turno": 3,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
