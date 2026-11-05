@@ -783,12 +783,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47830-camioneta-renault-captur-20-2022-placa-juv336-placa-47778-km.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47831-automovil-ford-fiesta-16-hatchback-2014-placa-hjq120-placa-133748-km.html": false
  },
- "ultima_revision": "2026-11-04 22:04:41",
+ "ultima_revision": "2026-11-05 05:52:21",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.104,
-  "corridas": 16,
-  "avisos": 16
+  "usd": 0.1105,
+  "corridas": 17,
+  "avisos": 17
  },
  "fb_cache": {
   "fb-1587587439344362": {
@@ -837,7 +837,7 @@
    "detectado": "2026-11-04 12:32:16"
   }
  },
- "fb_ultima": "2026-11-04T22:04:11",
- "fb_turno": 3,
+ "fb_ultima": "2026-11-05T05:51:02",
+ "fb_turno": 4,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
