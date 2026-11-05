@@ -434,7 +434,8 @@
   "superbid-5077822": "2026-11-04 17:53:24",
   "superbid-5077825": "2026-11-04 17:53:24",
   "syc-48045": "2026-11-04 17:53:24",
-  "syc-48046": "2026-11-04 17:53:24"
+  "syc-48046": "2026-11-04 17:53:24",
+  "fb-1799208367956433": "2026-11-05 13:28:42"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -783,12 +784,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47830-camioneta-renault-captur-20-2022-placa-juv336-placa-47778-km.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47831-automovil-ford-fiesta-16-hatchback-2014-placa-hjq120-placa-133748-km.html": false
  },
- "ultima_revision": "2026-11-05 05:52:21",
+ "ultima_revision": "2026-11-05 13:28:42",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.1105,
-  "corridas": 17,
-  "avisos": 17
+  "usd": 0.117,
+  "corridas": 18,
+  "avisos": 18
  },
  "fb_cache": {
   "fb-1587587439344362": {
@@ -835,9 +836,24 @@
    "url": "https://www.facebook.com/marketplace/item/984311798064369",
    "en_rango": true,
    "detectado": "2026-11-04 12:32:16"
+  },
+  "fb-1799208367956433": {
+   "id": "fb-1799208367956433",
+   "fuente": "Facebook Marketplace",
+   "titulo": "Logan life 2023",
+   "vendedor": "",
+   "subasta": "Búsqueda: carro chocado",
+   "ciudad": "Riosucio, Caldas",
+   "precio": 0,
+   "cierre": "",
+   "publicado": "2026-11-05 09:57:30",
+   "foto": "https://scontent.fmad16-1.fna.fbcdn.net/v/t39.30808-6/854669697_2737788446617106_1133235290318005711_n.jpg?stp=c0.86.780.780a_dst-jpg_tt6&cstp=mx780x780&ctp=s565x565&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=7UIw9tE0-oAQ7kNvwFSgXTK&_nc_oc=Adr8S_Mcm7B56EG5lp1h6fCWd2R2JS5SYYTXMxgirzwvdC81ezZNcfFkG5amEXnlZjc&_nc_zt=23&_nc_ht=scontent.fmad16-1.fna&_nc_gid=2y9fHtkoxxvqaOBuRo1H9A&_nc_ss=72289&oh=00_AQQLXgZBjAwgUMLyDOFEgz7B8T405FrTcVRBXs8fHQ-scA&oe=6AF2AA68",
+   "url": "https://www.facebook.com/marketplace/item/1799208367956433",
+   "en_rango": false,
+   "detectado": "2026-11-05 13:28:42"
   }
  },
- "fb_ultima": "2026-11-05T05:51:02",
- "fb_turno": 4,
+ "fb_ultima": "2026-11-05T13:28:14",
+ "fb_turno": 1,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
