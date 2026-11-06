@@ -435,7 +435,9 @@
   "superbid-5077825": "2026-11-04 17:53:24",
   "syc-48045": "2026-11-04 17:53:24",
   "syc-48046": "2026-11-04 17:53:24",
-  "fb-1799208367956433": "2026-11-05 13:28:42"
+  "fb-1799208367956433": "2026-11-05 13:28:42",
+  "fb-1124579120221240": "2026-11-05 23:51:45",
+  "fb-1611271873532966": "2026-11-05 23:51:45"
  },
  "cache_syc": {
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47110-ford-ranger-xl-32l-diesel-4x4-placa-851.html": false,
@@ -835,12 +837,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/48088-ford-ranger-limited-at-dc-placa-744.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/48087-ford-ranger-xl-4x4-mt-20-diesel-dc-placa-535.html": false
  },
- "ultima_revision": "2026-11-05 18:48:01",
+ "ultima_revision": "2026-11-05 23:51:45",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.1235,
-  "corridas": 19,
-  "avisos": 19
+  "usd": 0.1315,
+  "corridas": 20,
+  "avisos": 21
  },
  "fb_cache": {
   "fb-1587587439344362": {
@@ -902,9 +904,39 @@
    "url": "https://www.facebook.com/marketplace/item/1799208367956433",
    "en_rango": false,
    "detectado": "2026-11-05 13:28:42"
+  },
+  "fb-1124579120221240": {
+   "id": "fb-1124579120221240",
+   "fuente": "Facebook Marketplace",
+   "titulo": "PARCHE FRIO RADIAL # 14 Caja x 10U PARA MONTA LLANTAS MARCA JKL",
+   "vendedor": "",
+   "subasta": "Búsqueda: carro para reparar",
+   "ciudad": "Medellín, Antioquia",
+   "precio": 0,
+   "cierre": "",
+   "publicado": "2026-11-06 04:35:07",
+   "foto": "https://scontent.fmad16-1.fna.fbcdn.net/v/t39.84726-6/892558572_1122329407449385_7281177679511272092_n.jpg?stp=c0.86.526.526a_dst-jpg_p526x395_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=parv49SMVoAQ7kNvwGy_jDH&_nc_oc=AdpLVt83l8ae0Xq6_ALRjGwejk87zT1vnD7uAKj5lyzYCEP1LdWheS6WfPn5zp0hupQ&_nc_zt=14&_nc_ht=scontent.fmad16-1.fna&_nc_gid=rf424TKT3dxi55-FWVIldQ&_nc_ss=72289&oh=00_AQS7Gqm9YOVeQBd93h-sykkkgqhcnR3tpmjOmQTPi4wgRQ&oe=6AF3176C",
+   "url": "https://www.facebook.com/marketplace/item/1124579120221240",
+   "en_rango": false,
+   "detectado": "2026-11-05 23:51:45"
+  },
+  "fb-1611271873532966": {
+   "id": "fb-1611271873532966",
+   "fuente": "Facebook Marketplace",
+   "titulo": "PARCHE RADIAL # 10 - Caja x 20U - PARA MONTA LLANTAS  MARCA JKL",
+   "vendedor": "",
+   "subasta": "Búsqueda: carro para reparar",
+   "ciudad": "Medellín, Antioquia",
+   "precio": 0,
+   "cierre": "",
+   "publicado": "2026-11-06 04:34:15",
+   "foto": "https://scontent.fmad16-1.fna.fbcdn.net/v/t39.84726-6/885658907_1690997629320383_8880083223120106074_n.jpg?stp=c0.86.526.526a_dst-jpg_p526x395_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=qrVST8wjLVMQ7kNvwFm6lIL&_nc_oc=AdpJRnAD_Ew8phnA1B_fjZOfk2BAKTGLO5lKfszX2EeejXqwt25tc-rNedepXYPZ_v0&_nc_zt=14&_nc_ht=scontent.fmad16-1.fna&_nc_gid=rf424TKT3dxi55-FWVIldQ&_nc_ss=72289&oh=00_AQT82IhO1T8kc6DaybrwWpZgc4WmJGnA40nUSfykR-trXQ&oe=6AF31587",
+   "url": "https://www.facebook.com/marketplace/item/1611271873532966",
+   "en_rango": false,
+   "detectado": "2026-11-05 23:51:45"
   }
  },
- "fb_ultima": "2026-11-05T18:47:43",
- "fb_turno": 2,
+ "fb_ultima": "2026-11-05T23:51:13",
+ "fb_turno": 3,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
