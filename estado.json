@@ -837,12 +837,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/48088-ford-ranger-limited-at-dc-placa-744.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/48087-ford-ranger-xl-4x4-mt-20-diesel-dc-placa-535.html": false
  },
- "ultima_revision": "2026-11-05 23:51:45",
+ "ultima_revision": "2026-11-06 07:41:21",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.1315,
-  "corridas": 20,
-  "avisos": 21
+  "usd": 0.138,
+  "corridas": 21,
+  "avisos": 22
  },
  "fb_cache": {
   "fb-1587587439344362": {
@@ -936,7 +936,7 @@
    "detectado": "2026-11-05 23:51:45"
   }
  },
- "fb_ultima": "2026-11-05T23:51:13",
- "fb_turno": 3,
+ "fb_ultima": "2026-11-06T07:40:49",
+ "fb_turno": 4,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
