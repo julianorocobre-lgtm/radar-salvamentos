@@ -907,12 +907,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47391-dongfeng-rich-6-2025-placa-0-km-en-cali.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/automoviles-y-camionetas/47392-dongfeng-rich-6-2025-placa-0-km-en-cali.html": false
  },
- "ultima_revision": "2026-11-06 18:49:45",
+ "ultima_revision": "2026-11-06 23:23:36",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.151,
-  "corridas": 23,
-  "avisos": 24
+  "usd": 0.1575,
+  "corridas": 24,
+  "avisos": 25
  },
  "fb_cache": {
   "fb-1587587439344362": {
@@ -1006,7 +1006,7 @@
    "detectado": "2026-11-05 23:51:45"
   }
  },
- "fb_ultima": "2026-11-06T18:49:27",
- "fb_turno": 2,
+ "fb_ultima": "2026-11-06T23:22:20",
+ "fb_turno": 3,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
