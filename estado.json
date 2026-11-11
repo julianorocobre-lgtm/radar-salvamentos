@@ -944,12 +944,12 @@
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/carga-y-transporte/48171-microbus-renault-nuevo-master-minibus-2021-placa-sabana-de-torres.html": false,
   "https://subastasycomercio.com/detalle-lote-subastas-web/vehiculos/carga-y-transporte/48172-microbus-renault-nuevo-master-minibus-2021-placa-sabana-de-torres.html": false
  },
- "ultima_revision": "2026-11-10 21:03:39",
+ "ultima_revision": "2026-11-11 04:21:51",
  "fb_gasto": {
   "mes": "2026-11",
-  "usd": 0.255,
-  "corridas": 39,
-  "avisos": 40
+  "usd": 0.2615,
+  "corridas": 40,
+  "avisos": 41
  },
  "fb_cache": {
   "fb-4363780317245428": {
@@ -1028,7 +1028,7 @@
    "detectado": "2026-11-05 23:51:45"
   }
  },
- "fb_ultima": "2026-11-10T21:03:20",
- "fb_turno": 2,
+ "fb_ultima": "2026-11-11T04:21:18",
+ "fb_turno": 3,
  "fb_firma": "[[\"carro chocado\", \"salvamento\", \"carro para reparar\", \"camioneta chocada\"], \"antioquia\", 10000000]"
 }
